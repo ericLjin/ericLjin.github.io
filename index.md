@@ -6,7 +6,7 @@
 ## About me
 
 Hi! My name is **Eric Jin** and I am a ~~first~~ second year CSE Student at UCSD.
-[Picture of Library](lib.png)
+[Picture of Library](lib.jpg)
 
 Please note: ***This is my school account!*** **Visit the link _below_** to see my other Github Account.
 
