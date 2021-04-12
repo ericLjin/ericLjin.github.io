@@ -13,6 +13,8 @@ Please note: ***This is my school account!*** **Visit the link _below_** to see 
 
 [Click here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) to go to my other account.
 
+JK, [here's](https://github.com/twojineric) the actual link to my other account.
+
 ## Fun things
 
 After years of planning and design, I have come up with the most efficient sorting algorithm possible. Take a look.
